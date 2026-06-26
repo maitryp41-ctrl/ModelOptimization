@@ -15,9 +15,9 @@ Trained and compared 3 regression models to select the best performer.
 ### Results
 | Model | RMSE | R² Score |
 |---|---|---|
-| Linear Regression | 0.7455 | 0.5758 |
+| Linear Regression | 0.7456 | 0.5758 |
 | Ridge Regression | 0.7455 | 0.5758 |
-| Decision Tree | 0.6573 | 0.6771 |
+| Decision Tree | 0.7242 | 0.5997 |
 
 ### Best Model: Decision Tree Regressor
 Achieved lowest RMSE and highest R² by capturing non-linear patterns in data.
